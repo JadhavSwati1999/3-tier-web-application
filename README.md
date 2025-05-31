@@ -1,5 +1,5 @@
 
-# **Building a 3-tier web application architecture with AWS**
+# **Building a 3-tier web application architecture with AWS.**
 
 The three-tier architecture is the most popular implementation of a multi-tier architecture and consists of a single Jump server, presentation tier, and data tier. The following illustration shows an example of a simple, generic three-tier application.
 
